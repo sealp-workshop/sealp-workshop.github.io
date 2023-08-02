@@ -16,7 +16,7 @@
 title: SEALP
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  he First Workshop on South East Asian Language Processing
+  The First Workshop on South East Asian Language Processing, co-located with AACL 2023, Bali
 minimal_mistakes_skin: sunrise
 search: true
 
@@ -59,7 +59,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -70,7 +71,8 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
