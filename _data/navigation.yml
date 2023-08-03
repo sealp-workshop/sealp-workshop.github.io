@@ -1,9 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Call for Paper"
+    url: /pages/calls
+  - title: "Program"
+    url: /pages/program
