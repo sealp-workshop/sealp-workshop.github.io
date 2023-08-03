@@ -1,4 +1,3 @@
-
 ---
 permalink: /calls/
 title: "Call for Paper"
