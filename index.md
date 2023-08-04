@@ -5,7 +5,7 @@
 layout: splash
 author_profile: false
 title: The First Workshop in South East Asian Language Processing
-excerpt: Co-located with AACL 2023, Bali
+excerpt: Co-located with [AACL 2023](http://www.ijcnlp-aacl2023.org), Bali
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
