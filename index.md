@@ -4,7 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-excerpt: AACL
+title: The First Workshop in South East Asian Language Processing
+excerpt: Co-located with AACL 2023, Bali
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
