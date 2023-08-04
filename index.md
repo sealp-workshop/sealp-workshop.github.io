@@ -4,6 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
+excerpt: AACL
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Pexels**](https://www.pexels.com/@stijn-dijkstra-1306815/)"
+
 ---
 
 ## Topics
