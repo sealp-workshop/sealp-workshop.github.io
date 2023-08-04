@@ -13,9 +13,13 @@ header:
 
 ---
 
+South East Asia is one of the most linguistically diverse regions in the world, with over 1200 languages spoken by 680 million people. However, the diversity of South East Asian languages has long been at risk due to the emphasis on national languages as lingua franca in South East Asian countries at the end of colonization; and the increasing prominence of English due to the necessities of globalization. 
+
+This workshop will bring together practitioners from academia, government, and industry interested in the research and development of language technologies for SEA languages. The workshop also aims to build an inclusive community of everyone passionate about SEA languages, increase community awareness of works that have been developed to date on these languages, and foster collaborations that will strengthen and spur NLP research and development in SEA languages. 
+
 ## Topics
 
-test
+We welcome archival and non-archival submissions in NLP and speech approaches to South East Asian language (See [Call for Paper](https://sealp-workshop.github.io/calls) for more details). 
 
 ## Important Dates
 
