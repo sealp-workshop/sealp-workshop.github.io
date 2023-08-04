@@ -12,7 +12,13 @@ test
 
 ## Important Dates
 
-test 
+|  | Date |
+| :---  | :--- |
+| Submission Open | 11th August 2023 |
+| Submission Deadline | x Y 2023 |
+| Acceptance Notification | x Y 2023 |
+| Camera-Ready Deadline | x Y 2023 |
+| Workshop | 1st November 2023 |
 
 ## Organizers
 
