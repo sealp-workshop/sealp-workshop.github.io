@@ -34,7 +34,7 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 ## Organizers
 
-<table border="0">
+<table border="0" style="width:100%">
     <tbody>
         <tr>
             <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
