@@ -34,7 +34,7 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 ## Organizers
 
-<table>
+<table border="0">
     <tbody>
         <tr>
             <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
@@ -49,6 +49,13 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
             <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Clara Vania</a></td>
             <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Genta Indra Winata</a></td>
             <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Ayu Purwarianti</a></td>
+        </tr>
+          <tr>
+            <td style="text-align:center">Monash Indonesia</a></td>
+            <td style="text-align:center">MBZUAI</td>
+            <td style="text-align:center">Amazon</td>
+            <td style="text-align:center">Bloomberg</td>
+            <td style="text-align:center">Institut Teknologi Bandung</td>
         </tr>
     </tbody>
 </table>
