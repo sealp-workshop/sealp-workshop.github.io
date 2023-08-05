@@ -37,18 +37,18 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 <table>
     <tbody>
         <tr>
-            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
         </tr>
         <tr>
-            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
-            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
-            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
-            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
-            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Alham Fikri Aji</a></td>
+            <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Clara Vania</a></td>
+            <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Genta Indra Winata</a></td>
+            <td style="text-align:center"><a href="https://derrywijaya.github.io/web/">Ayu Purwarianti</a></td>
         </tr>
     </tbody>
 </table>
