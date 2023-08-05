@@ -24,16 +24,31 @@ This workshop will bring together practitioners from academia, government, and i
 
 We welcome archival and non-archival submissions in NLP and speech approaches to South East Asian language (See [Call for Paper](https://sealp-workshop.github.io/calls) for more details). 
 
-## Important Dates
-
-|  | Date |
+| Important Dates |  |
 | :---  | :--- |
-| Submission Open | 11th August 2023 |
-| Submission Deadline | x Y 2023 |
-| Acceptance Notification | x Y 2023 |
+| Submission Deadline | 25th August 2023 |
+| Acceptance Notification |  2023 |
 | Camera-Ready Deadline | x Y 2023 |
 | Workshop | 1st November 2023 |
 
+
 ## Organizers
 
-test
+<table>
+    <tbody>
+        <tr>
+            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+            <td width="20%"><img src="images/assets/derry.jpg" width="200px" style="border-radius: 20%"></td>
+        </tr>
+        <tr>
+            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+            <td style="center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
+        </tr>
+    </tbody>
+</table>
