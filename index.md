@@ -38,10 +38,10 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
     <tbody>
         <tr>
             <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia</td>
-            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Alham Fikri Aji<br>MBZUAI</td>
-            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Clara Vania<br>Amazon</td>
-           <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
-            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Ayu Purwarianti<br>ITB</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/aji.jpg" width="250px" style="border-radius: 20%"><br><a href="https://afaji.github.io/">Alham Fikri Aji</a><br>MBZUAI</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/clara.jpg" width="250px" style="border-radius: 20%"><br><a href="https://claravania.github.io">Clara Vania</a><br>Amazon</td>
+           <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/genta.jpg" width="250px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/ayu.jpg" width="250px" style="border-radius: 20%"><br>Ayu Purwarianti<br>ITB</td>
         </tr>
     </tbody>
 </table>
