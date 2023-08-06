@@ -34,11 +34,10 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 ## Organizers
 
-<table border="0" style="width:100%">
+<table>
     <tbody>
         <tr>
-            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia
-            </td>
+            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia</td>
             <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Alham Fikri Aji<br>MBZUAI</td>
             <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Clara Vania<br>Amazon</td>
            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
