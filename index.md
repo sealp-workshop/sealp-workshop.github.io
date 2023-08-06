@@ -37,25 +37,12 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 <table border="0" style="width:100%">
     <tbody>
         <tr>
-            <td border="0" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td border="0"  width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td border="0"  width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td border="0"  width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
-            <td border="0"  width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"></td>
-        </tr>
-        <tr>
-            <td border="0"  style="text-align:center"><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a></td>
-            <td border="0"  style="text-align:center"><a href="https://derrywijaya.github.io/web/">Alham Fikri Aji</a></td>
-            <td border="0"  style="text-align:center"><a href="https://derrywijaya.github.io/web/">Clara Vania</a></td>
-            <td border="0"  style="text-align:center"><a href="https://derrywijaya.github.io/web/">Genta Indra Winata</a></td>
-            <td border="0"  style="text-align:center"><a href="https://derrywijaya.github.io/web/">Ayu Purwarianti</a></td>
-        </tr>
-          <tr>
-            <td border="0"  style="text-align:center">Monash Indonesia</td>
-            <td border="0"  style="text-align:center">MBZUAI</td>
-            <td border="0"  style="text-align:center">Amazon</td>
-            <td border="0"  style="text-align:center">Bloomberg</td>
-            <td border="0"  style="text-align:center">Institut Teknologi Bandung</td>
+            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia
+            </td>
+            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Alham Fikri Aji<br>MBZUAI</td>
+            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Clara Vania<br>Amazon</td>
+           <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
+            <td border="0" style="text-align:center width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Ayu Purwarianti<br>ITB</td>
         </tr>
     </tbody>
 </table>
