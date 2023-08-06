@@ -34,14 +34,14 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 ## Organizers
 
-<table>
+<table style="margin-left: auto; margin-right: auto; width: 95%;">
     <tbody>
         <tr>
-            <td border="0" style="text-align:center" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia</td>
-            <td border="0" style="text-align:center" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Alham Fikri Aji<br>MBZUAI</td>
-            <td border="0" style="text-align:center" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Clara Vania<br>Amazon</td>
-           <td border="0" style="text-align:center" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
-            <td border="0" style="text-align:center" width="20%"><img src="assets/images/derry.jpg" width="200px" style="border-radius: 20%"><br>Ayu Purwarianti<br>ITB</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Alham Fikri Aji<br>MBZUAI</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Clara Vania<br>Amazon</td>
+           <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Genta Indra Winata<br>Bloomberg</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br>Ayu Purwarianti<br>ITB</td>
         </tr>
     </tbody>
 </table>
