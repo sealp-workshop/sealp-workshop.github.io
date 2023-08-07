@@ -17,7 +17,4 @@ This workshop aims to invite researchers from different backgrounds to share the
  - NLP Applications in the context of South East Asian languages and/or countries
 
 
-We accept both archival and non-archival submissions. All submissions will be processed through Softconf: TODO_URL.
-TODO: page limit, double-blind, etc.
-
-
+We accept both archival and non-archival submissions. All submissions will be processed through Softconf, following the standard ACL template. We will post the submission link soon.
