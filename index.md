@@ -26,7 +26,7 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 | Important Dates |  |
 | :---  | :--- |
-| Submission Deadline | 25th August 2023 AoE |
+| Submission Deadline | 10th September 2023 AoE |
 | Acceptance Notification | 2nd October 2023 AoE |
 | Camera-Ready Deadline | 15th October 2023 AoE |
 | Workshop | 1st November 2023 |
