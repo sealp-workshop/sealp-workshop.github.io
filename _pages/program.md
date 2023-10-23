@@ -4,6 +4,8 @@ title: "Workshop Program"
 layout: splash
 ---
 
+## Workshop Program
+
 SEALP @ AACL 2023
 Wednesday, November 1, 2023 (Central Indonesian Time, UTC+08:00)
 
