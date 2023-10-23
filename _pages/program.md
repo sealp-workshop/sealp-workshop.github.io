@@ -10,7 +10,7 @@ Wednesday, November 1, 2023 (Central Indonesian Time, UTC+08:00)
 
 | Time (UTC+8)     | Agenda                                                                                                                                   |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **14:00 - 15:25**| **Afternoon Session I**                                                                                                                          |
+| **14:00&nbsp;-&nbsp;15:25**| **Afternoon Session I**                                                                                                                          |
 | 14:00 - 14:05    | _Welcome Remarks_                                                                                                                                 |
 | 14:05 - 14:20    | _Towards Automatic Construction of Filipino WordNet: Word Sense Induction and Synset Induction Using Sentence Embeddings_<br>Dan John Velasco, Axel Alba, Trisha Gail Pelagio, Bryce Anthony Ramirez, Jan Christian Blaise Cruz, Unisse Chua, Briane Paul Samson and Charibeth Cheng |
 | 14:20 - 14:35    | _Low-Resource Clickbait Spoiling for Indonesian via Question Answering_<br>Ni Putu Intan Maharani, Ayu Purwarianti and Alham Fikri Aji   |
