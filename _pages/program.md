@@ -1,8 +1,7 @@
 ---
 permalink: /program/
 title: "Workshop Program"
-classes: wide
-layout: single
+layout: splash
 ---
 
 SEALP @ AACL 2023
