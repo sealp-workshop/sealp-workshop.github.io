@@ -4,11 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-title: The First Workshop in South East Asian Language Processing
+title: The Second Workshop in South East Asian Language Processing
 excerpt: |
-  Co-located with [AACL 2023](http://www.ijcnlp-aacl2023.org), Bali
+  Co-located with [COLING 2025]([http://www.ijcnlp-aacl2023.org](http://coling2025.org), Abu Dhabi (Online)
   <br>
-  1st November 2023
+  January 19-24, 2025
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -26,10 +26,10 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 | Important Dates |  |
 | :---  | :--- |
-| Submission Deadline | 10th September 2023 AoE |
-| Acceptance Notification | ~~2nd October 2023 AoE~~ 16th October 2023 AoE |
-| Camera-Ready Deadline | ~~15th~~ ~~24th~~ 20th October 2023 AoE |
-| Workshop | 1st November 2023 |
+| Submission Deadline | TBA |
+| Acceptance Notification | TBA |
+| Camera-Ready Deadline |TBA |
+| Workshop | TBA |
 
 
 ## Organizers
@@ -38,9 +38,9 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
     <tbody>
         <tr>
             <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/derry.jpg" width="250px" style="border-radius: 20%"><br><a href="https://derrywijaya.github.io/web/">Derry Wijaya</a><br>Monash Indonesia</td>
-            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/aji.jpg" width="250px" style="border-radius: 20%"><br><a href="https://afaji.github.io/">Alham Fikri Aji</a><br>MBZUAI</td>
+            <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/aji.jpg" width="250px" style="border-radius: 20%"><br><a href="https://afaji.github.io/">Alham Fikri Aji</a><br>MBZUAI, Monash Indonesia</td>
             <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/clara.jpg" width="250px" style="border-radius: 20%"><br><a href="https://claravania.github.io">Clara Vania</a><br>Amazon</td>
-           <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/genta.jpg" width="250px" style="border-radius: 20%"><br><a href="http://gentawinata.com/">Genta Indra Winata</a><br>Bloomberg</td>
+           <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/genta.jpg" width="250px" style="border-radius: 20%"><br><a href="http://gentawinata.com/">Genta Indra Winata</a><br>Capital One</td>
             <td border="0" style="text-align:center; vertical-align: top;" width="20%"><img src="assets/images/ayu.jpg" width="250px" style="border-radius: 20%"><br><a href="https://www.itb.ac.id/staf/profil/ayu-purwarianti">Ayu Purwarianti</a><br>ITB</td>
         </tr>
     </tbody>
