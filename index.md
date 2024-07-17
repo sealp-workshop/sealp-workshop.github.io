@@ -6,7 +6,7 @@ layout: splash
 author_profile: false
 title: The Second Workshop in South East Asian Language Processing
 excerpt: |
-  Co-located with [COLING 2025]([http://www.ijcnlp-aacl2023.org](http://coling2025.org), Abu Dhabi (Online)
+  Co-located with [COLING 2025](http://coling2025.org), Abu Dhabi (Online)
   <br>
   January 19-24, 2025
 header:
