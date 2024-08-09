@@ -26,9 +26,9 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 | Important Dates |  |
 | :---  | :--- |
-| Submission Deadline | TBA |
-| Acceptance Notification | TBA |
-| Camera-Ready Deadline |TBA |
+| Submission Deadline | 15 September 2024 |
+| Acceptance Notification | 5 December 2024 |
+| Camera-Ready Deadline |13 December 2024 |
 | Workshop | TBA |
 
 
