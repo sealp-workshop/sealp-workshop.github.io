@@ -17,4 +17,4 @@ This workshop aims to invite researchers from different backgrounds to share the
  - NLP Applications in the context of South East Asian languages and/or countries
 
 
-We accept both archival and non-archival submissions. All submissions will be processed through Softconf by [following this link](https://softconf.com/ijcnlp2023/WorkshopSEA2023/). Submission is double-blind and should follow the ACL template. We accept both short (4 pages) and long (8 pages) submissions.
+We accept both archival and non-archival submissions. All submissions will be processed through Softconf by [following this link]( https://softconf.com/coling2025/SEALP25). Submission is double-blind and should follow the ACL template. We accept both short (4 pages) and long (8 pages) submissions.
