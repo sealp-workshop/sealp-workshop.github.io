@@ -26,11 +26,11 @@ We welcome archival and non-archival submissions in NLP and speech approaches to
 
 | Important Dates |  |
 | :---  | :--- |
-| Submission Deadline | 15 September 2024 |
-| Acceptance Notification | 5 December 2024 |
-| Camera-Ready Deadline |13 December 2024 |
-| Workshop | TBA |
-
+| Submission Deadline | Monday, November 4th, 2024 |
+| Notification of Acceptance | Monday, November 25th, 2024 |
+| Camera-Ready Deadline |Friday, December 13th, 2024 |
+| Commitment deadline for pre-reviewed papers | TBD |
+| Workshop | Monday, January 20th, 2025 |
 
 ## Organizers
 
